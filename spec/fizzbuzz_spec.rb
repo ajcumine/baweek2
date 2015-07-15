@@ -16,8 +16,8 @@ describe 'fizzbuzz' do
       expect(play(5)).to eq('buzz')
     end
 
-    xit 'outputs fizzbuzz for 15' do
-
+    it 'outputs fizzbuzz for 15' do
+      expect(play(15)).to eq('fizzbuzz')
     end
 
   end
