@@ -1,0 +1,3 @@
+def play(number)
+
+end
