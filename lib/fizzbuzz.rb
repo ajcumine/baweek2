@@ -1,3 +1,3 @@
-def run(number)
+def play(number)
 
 end
